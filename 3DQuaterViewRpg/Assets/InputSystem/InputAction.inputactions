@@ -1,0 +1,34 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "7ba644c9-edb0-4420-b2f6-2561cdace2f3",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "26745091-a0ab-414d-8534-80ed1cee5dec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "381c2a2b-808b-4ba6-bfbd-cabb61c9c6fb",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
