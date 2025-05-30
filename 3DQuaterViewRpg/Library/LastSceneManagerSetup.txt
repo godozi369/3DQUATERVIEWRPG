@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/TempAssets/Multistory Dungeons 2/Scenes/Top-Down Demo 01.unity
+- path: Assets/Scenes/TutorialScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
