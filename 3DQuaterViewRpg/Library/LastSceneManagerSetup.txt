@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Ancient-Dungeon-BuiltInRP/Scenes/Ancient Dungeon Scenes.unity
+- path: Assets/TempAssets/Multistory Dungeons 2/Scenes/Top-Down Demo 01.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

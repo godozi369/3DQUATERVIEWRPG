@@ -368,6 +368,9 @@
 "Assets/Scripts/Enemy/EnemyAI.cs"
 "Assets/Scripts/NewBehaviourScript.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/TempAssets/Multistory Dungeons 2/Scripts/DisableMeshAtRuntime.cs"
+"Assets/TempAssets/Multistory Dungeons 2/Scripts/FpsCounter.cs"
+"Assets/TempAssets/Multistory Dungeons 2/Scripts/Move.cs"
 -langversion:9.0
 
 /deterministic
