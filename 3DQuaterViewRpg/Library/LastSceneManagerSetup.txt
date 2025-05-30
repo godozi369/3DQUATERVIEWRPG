@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Ancient-Dungeon-BuiltInRP/Scenes/Ancient Dungeon Scenes.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
